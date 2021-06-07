@@ -9,3 +9,7 @@ push it to the git hub and commit the changes.
 ## Some changes
 
 To reflect on how to make branches and merge them together.
+
+## Also added some other changes
+
+merge requests contd.
